@@ -1,8 +1,8 @@
-#Game of Simplicity
+# Game of Simplicity
  
 Simplicity is the ultimate sophistication – Leonardo da Vinci
  
-##Background:
+## Background:
  
 This is a world of magic and mechanics. Your home is under attack by a vicious dragon. You have created two magical towers to keep the dragon away, but the towers needs to rotate all the time. To save the town you have quickly put together a mechanical contraption to power the towers using the local windmill. Since it was done rather quickly, it’s bit rough and not very efficient. The challenge is to reduce the unnecessary gears and make it simple. To remove a gear simply click on it.
  
