@@ -13,3 +13,4 @@ Hint: you can drag the mouse to rotate the camera.
 Link to the Game:
 https://sarkarsaurabh.github.io/game_of_simplicity/webgl/
 
+![alt text](https://github.com/sarkarsaurabh/game_of_simplicity/blob/master/2018-06-25_09h35_04.png)
